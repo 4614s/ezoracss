@@ -1,0 +1,6 @@
+[
+  {
+    "pattern": "/*",
+    "destination": "/index.html"
+  }
+]
